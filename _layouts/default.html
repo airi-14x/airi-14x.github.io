@@ -5,6 +5,7 @@
 </head>
 
 <body>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <div class="container">
      <h1>{{ site.title | default: site.github.repository_name }}</h1>
      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
