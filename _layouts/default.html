@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+  <div class="container">
+     <h1>{{ site.title | default: site.github.repository_name }}</h1>
+     <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+     <p>This guide is a master compilation of answers found on <a href="https://www.reddit.com/r/Concordia/">Concordia's Reddit</a> as well as tips that may hopefully serve you well regardless of major and year. Learn as much as you can and enjoy
+       your journey as a
+       Concordia student. Best of Luck.</p>
+     <p>Please don't hesitate to send broken link issues, questions and feedback to this <a href="mailto:airi.14x@gmail.com">email</a>.</p>
+     <p>Version: 2.0</p>
+     <section id="downloads">
+       {% if site.show_downloads %}
+       <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+       <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+       {% endif %}
+       <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+     </section>
+   </div>
+
+  <h3>Welcome to GitHub Pages</h3>
+</body>
+
+</html>
