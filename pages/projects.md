@@ -1,15 +1,32 @@
 ## Projects
 ---
  
+## Current - Summer 2020
+
+### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
+- Summer 2019 - ??
+- Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
+- Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails).
+ 
+- Technologies: Ruby, Ruby on Rails
+
+### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
+- Sandbox for technologies studied over the summer of '20.
+- Technologies: Python, NumPy, MySQL, MongoDB, Ruby
+
+### [airi-14x.github.io](https://github.com/airi-14x/airi-14x.github.io)
+- Creating a home page for projects and other information.
+- Technologies: HTML, CSS, Jekyll, Markdown, Github Pages
+
+ 
 ## Winter 2020 
 ### [RESTful and SOAP Web Services](https://github.com/airi-14x/SOEN487-Projects/tree/master/Assignment2)
 - Implemented a RESTful Web Service for a library system and a SOAP Web Service
 for a loan system using a layered architecture.
-
 - Technologies: Java, Jersey, JAX-WS, JAX-RS, JSP, JSON, Tomcat
 
 ### [Weather System - RESTful API](https://github.com/airi-14x/SOEN487-Projects/tree/master/Assignment3)
-- Created a simple Flask application that uses OpenWeatherMap api.
+- Created a simple Flask application that uses OpenWeatherMap API.
 - Building on top of this API, we were able to create an app with the following features:
     - Secure public API
     - Toggle between units (Fahrenheit/Celsius)
@@ -39,7 +56,7 @@ for a loan system using a layered architecture.
  
 ## Summer 2018
 ### [Mood-Map](https://github.com/airi-14x/mood-map)
-- Created an emotion recognition app as part of AI4SocialGood's final prototype that classify inputs into the seven basic emotions.
+- Created an emotion recognition app as part of AI4SocialGood's final prototype that classifies inputs into the seven basic emotions.
 - Technologies: Python, NumPy, OpenCV, Machine Learning
 
 ### [SilentBabyWatcher](https://github.com/airi-14x/SilentBabyWatcher)
