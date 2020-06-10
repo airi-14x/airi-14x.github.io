@@ -1,13 +1,20 @@
 ## Projects
+
+---
+
+- [Current](#current-summer-2020)
+- [2020](#winter-2020)
+- [2019](#summer-2019)
+- [2018](#summer-2018)
+
 ---
  
-## Current - Summer 2020
+## Current Summer 2020
 
 ### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
 - Summer 2019 - ??
 - Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
-- Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails).
- 
+- Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails). 
 - Technologies: Ruby, Ruby on Rails
 
 ### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
@@ -35,6 +42,7 @@ for a loan system using a layered architecture.
     - Search current weather via city name or geographical coordinates    
 - Technologies: Python, Flask, OpenWeather, JSON
 
+---
  
 ## Summer 2019
 ### [Concordia-Master-Guide](https://github.com/airi-14x/Concordia-Master-Guide)
@@ -43,9 +51,9 @@ for a loan system using a layered architecture.
 
  
 ## Spring 2019
-### [TheOdinProject-Sinastra-and-Basic-Rails](https://github.com/airi-14x/TheOdinProject-Sinastra-and-Basic-Rails)
+### [TheOdinProject-Sinatra-and-Basic-Rails](https://github.com/airi-14x/TheOdinProject-Sinatra-and-Basic-Rails)
 - Created projects to familiarise with the basics of Ruby on Rails.
-- Technologies: Ruby, Ruby on Rails, Sinastra, Heroku
+- Technologies: Ruby, Ruby on Rails, Sinatra, Heroku
 
  
 ## Winter 2019
@@ -53,6 +61,7 @@ for a loan system using a layered architecture.
 - Migrated an internal Python tool to a Scala dashboard.
 - Technologies: Scala, Python, SQL, JSON, in-house UI libraries, JUnit
 
+---
  
 ## Summer 2018
 ### [Mood-Map](https://github.com/airi-14x/mood-map)
@@ -62,3 +71,6 @@ for a loan system using a layered architecture.
 ### [SilentBabyWatcher](https://github.com/airi-14x/SilentBabyWatcher)
 - Created a program that detects and classifies the baby-sound inputs into 4 different sound parameters.
 - Technologies: Python, Machine Learning
+
+---
+### [Back to Projects](#projects)
