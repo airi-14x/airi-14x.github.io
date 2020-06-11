@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="shortcut icon" href="#" />
-  <title>{{site.title}} | {{page.title | default: site.tab}}</title>
+  <title>{{ site.title }} | {{ page.title | default: site.tab }}</title>
   {% seo %}
 </head>
 
@@ -18,7 +18,7 @@
       <a id="a-title" href="{{ '/' | relative_url }}">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
       </a>
-      <h2>{{ page.description}}</h2>
+      <h2>{{ page.description }}</h2>
     </div>
   </header>
 
