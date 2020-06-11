@@ -1,4 +1,5 @@
 ---
+tab: Projects
 permalink: /projects
 ---
 
