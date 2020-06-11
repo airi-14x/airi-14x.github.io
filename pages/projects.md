@@ -1,5 +1,6 @@
 ---
 tab: Projects
+description: Here's a list of technologies that I have worked with.
 permalink: /projects
 ---
 
@@ -28,7 +29,7 @@ permalink: /projects
 
 ### [airi-14x.github.io](https://github.com/airi-14x/airi-14x.github.io)
 - Creating a home page for projects and other information.
-- Technologies: HTML, CSS, Jekyll, Markdown, Github Pages
+- Technologies: HTML, CSS, Jekyll, Liquid, Markdown, Github Pages
 
  
 ## Winter 2020 
