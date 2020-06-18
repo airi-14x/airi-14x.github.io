@@ -8,14 +8,14 @@ permalink: /projects
 
 ---
 
-- [Current](#current-summer-2020)
-- [2020](#winter-2020)
+- [Current](#current)
+- [2020](#summer-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
 
 ---
  
-## Current Summer 2020
+## Current
 
 ### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
 - Summer 2019 - ??
@@ -27,8 +27,11 @@ permalink: /projects
 - Sandbox for technologies studied over the summer of '20.
 - Technologies: Python, NumPy, MySQL, MongoDB, Ruby
 
+---
+　
+## Summer 2020
 ### [airi-14x.github.io](https://github.com/airi-14x/airi-14x.github.io)
-- Creating a home page for projects and other information.
+- Created a home page for projects and other information.
 - Technologies: HTML, CSS, Jekyll, Liquid, Markdown, Github Pages
 
  
@@ -49,6 +52,7 @@ for a loan system using a layered architecture.
 - Technologies: Python, Flask, OpenWeather, JSON
 
 ---
+### [Back to Projects](#projects)
  
 ## Summer 2019
 ### [Concordia-Master-Guide](https://github.com/airi-14x/Concordia-Master-Guide)
@@ -68,6 +72,7 @@ for a loan system using a layered architecture.
 - Technologies: Scala, Python, SQL, JSON, in-house UI libraries, JUnit
 
 ---
+### [Back to Projects](#projects)
  
 ## Summer 2018
 ### [Mood-Map](https://github.com/airi-14x/mood-map)
