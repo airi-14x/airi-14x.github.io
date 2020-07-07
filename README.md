@@ -2,6 +2,7 @@
 
 | Contents |
 | ------ |
+|- Résumé (PDF version) |
 |- Projects (List of technologies that I have worked with)|
 |- Concordia Master Guide (FAQ for Concordia's ENCS students)|
 
