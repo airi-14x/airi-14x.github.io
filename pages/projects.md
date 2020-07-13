@@ -23,16 +23,19 @@ permalink: /projects
 - Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails). 
 - Technologies: Ruby, Ruby on Rails
 
-### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
-- Sandbox for technologies studied over the summer of '20.
-- Technologies: Python, NumPy, MySQL, MongoDB, Ruby
-
 ---
 　
 ## Summer 2020
+### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
+- Sandbox for technologies studied over the summer of '20.
+- Technologies: Python, NumPy, MySQL, MongoDB, Ruby, Machine Learning, W3Schools
+
 ### [airi-14x.github.io](https://github.com/airi-14x/airi-14x.github.io)
 - Created a home page for projects and other information.
 - Technologies: HTML, CSS, Jekyll, Liquid, Markdown, Github Pages
+
+---
+### [Back to Projects](#projects)
 
  
 ## Winter 2020 
