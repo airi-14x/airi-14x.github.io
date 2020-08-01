@@ -29,6 +29,11 @@ permalink: /projects
 - Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program.
 - Technologies: Javascript, NodeJS
 
+### Otakuthon's Staff Management Web App
+- July 2020 - ??
+- Working on developing features for Otakuthon's staff management web app.
+- Technologies: NodeJS, MongoDB
+
 ---
 ### [Back to Projects](#projects)
 　
