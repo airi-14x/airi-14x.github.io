@@ -1,6 +1,6 @@
 # Main Directory of airi-14x's GitHub Pages
 
-| Contents |
+| Current Contents |
 | ------ |
 |- Résumé (PDF version) |
 |- Projects (List of technologies that I have worked with)|
