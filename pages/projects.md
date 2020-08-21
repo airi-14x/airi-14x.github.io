@@ -8,14 +8,15 @@ permalink: /projects
 
 ---
 
-- [Current](#current)
+- [Current Side Projects](#current-side-projects)
+- [Autumn 2020](#autumn-2020)
 - [2020](#summer-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
 
 ---
  
-## Current
+## Current Side Projects
 
 ### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
 - Summer 2019 - ??
@@ -29,14 +30,25 @@ permalink: /projects
 - Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program.
 - Technologies: Javascript, NodeJS
 
+---
+### [Back to Projects](#projects)
+
+ 
+## Autumn 2020
 ### Otakuthon's Staff Management Web App
 - July 2020 - ??
 - Working on developing features for Otakuthon's staff management web app.
 - Technologies: NodeJS, MongoDB
 
+### TA - Programmer on Duty and Marker for SOEN 387
+- August 2020 - December 2020
+- Debugging support for Java and other technologies.
+- Marking projects via demos.
+
 ---
 ### [Back to Projects](#projects)
-　
+
+ 
 ## Summer 2020
 ### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
 - Sandbox for technologies studied over the summer of '20.
