@@ -38,7 +38,7 @@ permalink: /languages
 
 ---
 
-
+ 
 ## Korean
 ### Milestone: TOPIK Level 2
 
@@ -51,9 +51,7 @@ permalink: /languages
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
 
 ---
-
-
-
+ 
 ## French
 ### Milestone: CEFR C1
 
@@ -61,3 +59,4 @@ permalink: /languages
 - ON HIATUS until the beginning of 2021.
 
 ---
+ 
