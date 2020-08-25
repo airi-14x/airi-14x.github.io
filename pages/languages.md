@@ -37,7 +37,7 @@ permalink: /languages
 - Tobira: Review Kanji 297 [JLPT N4]
 
 ---
-### [Back to Languages](#Languages)
+
 
 ## Korean
 ### Milestone: TOPIK Level 2
@@ -49,8 +49,9 @@ permalink: /languages
 - Hangul Studies
 - Integrated Korean: Beginning 1 [TOPIK 1]
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
+
 ---
-### [Back to Languages](#Languages)
+
 
 
 ## French
@@ -58,5 +59,5 @@ permalink: /languages
 
 ### Current
 - ON HIATUS until the beginning of 2021.
+
 ---
-### [Back to Languages](#Languages) 
