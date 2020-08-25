@@ -4,5 +4,5 @@
 | ------ |
 |- Résumé (PDF version) |
 |- Projects (List of technologies that I have worked with)|
+|- Languages (Language Study Journey)
 |- Concordia Master Guide (FAQ for Concordia's ENCS students)|
-
