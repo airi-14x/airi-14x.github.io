@@ -29,7 +29,7 @@ permalink: /languages
 ### Past
 - Obenkyo: Hiragana & Katakana [JLPT N5]
 - Genki I [JLPT N5]
-- Genki II [JLPT N5 - N4]
+- Genki II [JLPT N5 ~ JLPT N4]
 - A Guide to Japanese Grammar: A Japanese Approach to Learning Japanese Grammar [JLPT N5]
 - Obenkyo Kanji N5 & N4
 - Obenkyo Counters Review [JLPT N5]
@@ -46,7 +46,7 @@ permalink: /languages
 ### Current
 - ON HIATUS until completed "Tobira".
 
-### PAST
+### Past
 - Hangul Studies
 - Integrated Korean: Beginning 1 [TOPIK 1]
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
