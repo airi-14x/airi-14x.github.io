@@ -24,7 +24,6 @@ permalink: /languages
   - Speech Practice: Completed Section 1 // @ Section 2
 - Nihongo Notes Vol 2: Language and Communication [JLPT N4]
   - Chapter 1: Completed // @Review Ch.1
-- Imabi Beginner I Review [JLPT N5]
 
 ### Past
 - Obenkyo: Hiragana & Katakana [JLPT N5]
@@ -36,6 +35,7 @@ permalink: /languages
 - Imabi Beginner I [JLPT N5]
 - Nihongo Notes Vol 1: Language and Culture [JLPT N4]
 - Tobira: Review Kanji 297 [JLPT N4]
+- Imabi Beginner I Review [JLPT N5]
 
 ---
 
