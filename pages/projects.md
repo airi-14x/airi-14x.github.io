@@ -35,13 +35,14 @@ permalink: /projects
 
  
 ## Autumn 2020
-### TA - Programmer on Duty and Marker for SOEN 387
+### Teaching Assistant and Marking Coordinator 
 - August 2020 - Present
-- Debugging support for Java and other technologies.
-- Marking projects via demos.
+- Programmer on Duty (Support), Marker and Marking Coordinator for SOEN 387
+- Marker for COMP 348
+- Java, IntelliJ, NetBeans 8, Apache NetBeans 11
 
 <!--### Otakuthon's Staff Management Web App
-- July 2020 - ??
+- October 2020 - ??
 - Working on developing features for Otakuthon's staff management web app.
 - Technologies: NodeJS, MongoDB
 -->
