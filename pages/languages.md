@@ -20,10 +20,10 @@ permalink: /languages
 
 ### Current
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Chapter 1 --> 5: Completed // @ Reviewing
-  - Speech Practice: Completed Section 1 // @ Section 2
+  - Reviewing Ch.1
+  - Speech Practice: @ Section 2
 - Nihongo Notes Vol 2: Language and Communication [JLPT N4]
-  - Chapter 2
+  - @ Chapter 3
 
 ### Past
 - Obenkyo: Hiragana & Katakana [JLPT N5]
@@ -38,6 +38,11 @@ permalink: /languages
 - Imabi Beginner I Review [JLPT N5]
 - Nihongo Notes Vol 2: Language and Communication [JLPT N4]
   - Chapter 1 + Review
+  - Chapter 2 + Review
+- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
+  - Chapter 1 to 5
+  - Speech Practice: 
+    - Section 1
 
 ---
 
