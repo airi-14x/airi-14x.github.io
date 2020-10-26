@@ -35,10 +35,11 @@ permalink: /projects
 
  
 ## Autumn 2020
-### Teaching Assistant and Marking Coordinator 
+### Undergraduate Teaching Assistant
 - August 2020 - Present
-- Programmer on Duty (Support), Marker and Marking Coordinator for SOEN 387
-- Marker for COMP 348
+- Marking Coordinator: SOEN 387
+- Marker: COMP 348 & SOEN 387
+- Programmer on Duty: SOEN 387
 - Java, IntelliJ, NetBeans 8, Apache NetBeans 11
 
 <!--### Otakuthon's Staff Management Web App
@@ -48,6 +49,24 @@ permalink: /projects
 -->
 ---
 ### [Back to Projects](#projects)
+
+
+### COMP 479 - Projects
+#### [Project #1 - NLTK, Cleaning and Parsing the Reuters Collection]()
+- Used NLTK library, and BeautifulSoup to parse Reuters collection into documents, articles, tokens, stems. Also, removed stopwords indexed in indexer.
+- Used two methods to create the indexer:
+	- Pipelining from block 1 to block 6
+	- Feeding input one block at a time.
+- Technologies: Python, NLTK, BeautifulSoup, JSON
+
+#### [Project #2 - Create an Indexer, a Single Term Querying Processor and a Compressed Index]()
+- The tokens needed to be sorted and the duplicate terms needs to be merged. This resulted in have a merged posting list that has to be sorted again.
+- The query are passed as parameter and used to look up the term in the index.
+- As for the creating a compressed index, numbers were removed, it was case-folded and the stopwords were removed.
+- Technologies: Python, NLTK, BeautifulSoup, JSON
+
+---
+### [Back to Projects](#projects) 
 
  
 ## Summer 2020
