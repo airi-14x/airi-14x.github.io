@@ -47,8 +47,6 @@ permalink: /projects
 - Working on developing features for Otakuthon's staff management web app.
 - Technologies: NodeJS, MongoDB
 -->
----
-### [Back to Projects](#projects)
 
 
 ### COMP 479 - Projects
