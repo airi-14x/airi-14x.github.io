@@ -9,8 +9,8 @@ permalink: /languages
 ---
 
 - [Japanese](#japanese)
-- [Korean](#korean)
 - [French](#french)
+- [Korean](#korean)
 
 ---
 
@@ -46,11 +46,24 @@ permalink: /languages
 ---
 
  
+## French
+### Milestone: CEFR C1
+
+### Current Level
+- Université de Montréal (UdeM) French Test Results [2020/11/13]:
+  - Oral Level: QUM 8 [CEFR: B2+]
+  - Written Level: QUM 5 [CEFR: B1.2]
+**CEFR: Common European Framework of Reference**
+
+---
+ 
+
 ## Korean
+### [On Hold - Until completion of "Tobira"]
 ### Milestone: TOPIK Level 2
 
 ### Current
-- ON HIATUS until completed "Tobira".
+- ON HIATUS
 
 ### Past
 - Hangul Studies
@@ -58,12 +71,5 @@ permalink: /languages
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
 
 ---
- 
-## French
-### Milestone: CEFR C1
 
-### Current
-- ON HIATUS until the beginning of 2021.
-
----
  
