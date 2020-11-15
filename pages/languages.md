@@ -50,12 +50,12 @@ permalink: /languages
 ### Milestone: CEFR C1
 
 ### Current Level
-- November 13th 2020
 - Université de Montréal (UdeM) French Test Results:
+  - (November 13th 2020)
   - Oral Level: QUM 8 [CEFR: B2+]
   - Written Level: QUM 5 [CEFR: B1.2]
 
-**CEFR: Common European Framework of Reference**
+- **CEFR: Common European Framework of Reference**
 
 ---
  
