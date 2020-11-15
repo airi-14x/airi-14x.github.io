@@ -16,8 +16,8 @@ permalink: /projects
 
 ---
  
-## Current Side Projects [On hold - Autumn 2020]
-
+## Current Side Projects
+### On Hold - Autumn 2020
 ### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
 - Summer 2019 - ??
 - Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
