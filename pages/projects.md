@@ -16,7 +16,7 @@ permalink: /projects
 
 ---
  
-## Current Side Projects
+## Current Side Projects [On hold - Autumn 2020]
 
 ### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
 - Summer 2019 - ??
@@ -41,12 +41,6 @@ permalink: /projects
 - Marker: COMP 348 & SOEN 387
 - Programmer on Duty: SOEN 387
 - Java, IntelliJ, NetBeans 8, Apache NetBeans 11
-
-<!--### Otakuthon's Staff Management Web App
-- October 2020 - ??
-- Working on developing features for Otakuthon's staff management web app.
-- Technologies: NodeJS, MongoDB
--->
 
 
 ### COMP 479 - Projects
