@@ -16,7 +16,7 @@ permalink: /languages
 
  
 ## Japanese
-### Upcoming Milestone: JLPT N3
+### Next Milestone: JLPT N3 [~CEFR: B2]
 
 ### Current Level
 - Université de Montréal (UdeM) Japanese Test Results:
@@ -52,7 +52,7 @@ permalink: /languages
 
  
 ## French
-### Upcoming Milestone: CEFR C1
+### Next Milestone: CEFR C1
 
 ### Current Level
 - Université de Montréal (UdeM) French Test Results:
@@ -73,7 +73,7 @@ permalink: /languages
 
 ## Korean
 ### [On Hold - Until completion of "Tobira"]
-### Upcoming Milestone: TOPIK Level 2
+### Next Milestone: TOPIK Level 2
 
 ### Current Level
 - CEFR: A1.2(?)
