@@ -16,9 +16,14 @@ permalink: /languages
 
  
 ## Japanese
-### Milestone: JLPT N3
+### Upcoming Milestone: JLPT N3
 
-### Current
+### Current Level
+- Université de Montréal (UdeM) Japanese Test Results:
+	- (November 16th 2020)
+	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
+
+### Current Status
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: @ Section 2
@@ -47,24 +52,33 @@ permalink: /languages
 
  
 ## French
-### Milestone: CEFR C1
+### Upcoming Milestone: CEFR C1
 
 ### Current Level
 - Université de Montréal (UdeM) French Test Results:
   - (November 13th 2020)
-  - Oral Level: QUM 8 [CEFR: B2+]
+  - Oral Level: QUM 8 (MAX) [CEFR: B2+]
   - Written Level: QUM 5 [CEFR: B1.2]
 
 - **CEFR: Common European Framework of Reference**
+
+### Current Status
+- TBA
+
+### Past
+- N/A
 
 ---
  
 
 ## Korean
 ### [On Hold - Until completion of "Tobira"]
-### Milestone: TOPIK Level 2
+### Upcoming Milestone: TOPIK Level 2
 
-### Current
+### Current Level
+- CEFR: A1.2(?)
+
+### Current Status
 - ON HIATUS
 
 ### Past
