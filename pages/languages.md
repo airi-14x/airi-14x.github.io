@@ -16,7 +16,7 @@ permalink: /languages
 
  
 ## Japanese
-### Dream Milestone (One Day, maybe ~): Passing JLPT N1
+### Dream Milestone (One day, perhaps~): Passing JLPT N1
 ### Next Milestone: JLPT N3 [~CEFR: B2]
 
 ### Current Level
@@ -87,7 +87,7 @@ permalink: /languages
  
 
 ## Korean
-### Dream Milestone (One Day, maybe ~): Passing TOPIK Level 5 
+### Dream Milestone: Passing TOPIK Level 5 
 ### Next Milestone: TOPIK Level 2
 ### [On Hold - Until completion of "Tobira"]
 
