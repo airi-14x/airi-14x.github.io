@@ -55,7 +55,7 @@ permalink: /languages
   - Speech Practice: 
     - Section 1
     
-**Self-study only up until here. The following section will be a combination of self-study and classes.**
+**Self-studied only up until here. The following section will be a combination of self-study and classes.**
 
 ### Past
 
