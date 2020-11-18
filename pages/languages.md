@@ -16,19 +16,26 @@ permalink: /languages
 
  
 ## Japanese
+### Dream Milestone (One Day, maybe ~): Passing JLPT N1
 ### Next Milestone: JLPT N3 [~CEFR: B2]
 
 ### Current Level
 - Université de Montréal (UdeM) Japanese Test Results:
 	- (November 16th 2020)
 	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
+	- Strength: Reading, Comprehension
+	- To put more practice in: Speech, Writing
 
 ### Current Status
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: @ Section 2
+- Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
 
-### Past
+### Upcoming 2021
+- Autumn 2021(?): [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
+
+### Past (Self-Study)
 - Obenkyo: Hiragana & Katakana [JLPT N5]
 - Genki I [JLPT N5]
 - Genki II [JLPT N5 ~ JLPT N4]
@@ -47,11 +54,15 @@ permalink: /languages
   - Chapter 1 to 5
   - Speech Practice: 
     - Section 1
+**Self-study only up until here. Below this line will be a combination of self-study and classes.**
+
+### Past
 
 ---
 
  
 ## French
+### Dream Milestone: CEFR C2
 ### Next Milestone: CEFR C1
 
 ### Current Level
@@ -63,15 +74,20 @@ permalink: /languages
 - **CEFR: Common European Framework of Reference**
 
 ### Current Status
-- TBA
+- Winter 2021 (?): FRS 1504
+- Possible upcoming writing courses: FRS 1504, FRS 1604, FRS 2704
+
+### Upcoming 2021
+- Autumn 2021 (?): FRS 1604
 
 ### Past
-- N/A
+- Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
 
 ---
  
 
 ## Korean
+### Dream Milestone (One Day, maybe ~): Passing TOPIK Level 5 
 ### [On Hold - Until completion of "Tobira"]
 ### Next Milestone: TOPIK Level 2
 
