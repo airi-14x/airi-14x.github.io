@@ -88,8 +88,8 @@ permalink: /languages
 
 ## Korean
 ### Dream Milestone (One Day, maybe ~): Passing TOPIK Level 5 
-### [On Hold - Until completion of "Tobira"]
 ### Next Milestone: TOPIK Level 2
+### [On Hold - Until completion of "Tobira"]
 
 ### Current Level
 - CEFR: A1.2(?)
