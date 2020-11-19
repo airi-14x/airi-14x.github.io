@@ -58,6 +58,7 @@ permalink: /languages
 **Self-studied only up until here. The following section will be a combination of self-study and classes.**
 
 ### Past
+- N/A
 
 ---
 
