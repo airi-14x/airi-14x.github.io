@@ -67,6 +67,7 @@ permalink: /projects
 
 #### [Project #4 - TBA]()
 - N/A
+
 ---
 ### [Back to Projects](#projects) 
 
