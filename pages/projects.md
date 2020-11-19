@@ -36,11 +36,14 @@ permalink: /projects
  
 ## Autumn 2020
 ### Undergraduate Teaching Assistant
-- August 2020 - Present
+- August 2020 - December 2020
 - Marking Coordinator: SOEN 387
+	- Meetings via Slack & created spreadsheets for marking.
 - Marker: COMP 348 & SOEN 387
+	- Demo markings were done on Zoom. Other marking were done on a spreadsheet.
 - Programmer on Duty: SOEN 387
-- Java, IntelliJ, NetBeans 8, Apache NetBeans 11
+	- Answered questions related to the assignments.
+	- Supported environments: Java, IntelliJ, NetBeans 8, Apache NetBeans 11
 
 
 ### COMP 479 - Projects
@@ -57,6 +60,13 @@ permalink: /projects
 - As for creating a compressed index, the numbers were removed, it was case-folded and the stopwords were removed.
 - Technologies: Python, NLTK, BeautifulSoup, JSON
 
+#### [Project #3 - Created an index via SPIMI]()
+- Single term querying processor and OR query processor was implemented. 
+- Partially implement: AND query processor.
+- Due to lack of time as well as having surgery, ranking was not implemented and the AND query processor.
+
+#### [Project #4 - TBA]()
+- N/A
 ---
 ### [Back to Projects](#projects) 
 
