@@ -40,7 +40,7 @@ permalink: /projects
 - Marking Coordinator: SOEN 387
 	- Meetings via Slack & created spreadsheets for marking.
 - Marker: COMP 348 & SOEN 387
-	- Demo markings were done on Zoom. Other marking were done on a spreadsheet.
+	- Demos were done via Zoom. Other markings were done on a spreadsheet.
 - Programmer on Duty: SOEN 387
 	- Answered questions related to the assignments.
 	- Supported environments: Java, IntelliJ, NetBeans 8, Apache NetBeans 11
