@@ -83,7 +83,7 @@ permalink: /languages
 - Autumn 2021 (?): FRS 1604
 
 ### Past
-- Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
+- Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
 
 ---
  
