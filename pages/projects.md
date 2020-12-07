@@ -18,6 +18,7 @@ permalink: /projects
  
 ## Current Side Projects
 ### On Hold - Autumn 2020
+- N/A
 
 ---
 ### [Back to Projects](#projects)
