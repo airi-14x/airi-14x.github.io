@@ -66,10 +66,10 @@ permalink: /projects
 - Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails) program. 
 - Technologies: Ruby, Ruby on Rails
 
-### [TheOdinProject-NodeJS-Beginner](https://github.com/airi-14x/TheOdinProject-NodeJS-Beginner)
+### [JS-Review](https://github.com/airi-14x/JS-Review)
 - Summer 2020
-- Creating projects to review Javascript and explore the world of NodeJS.
-- Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program.
+- JS Review
+<!-- - Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program. -->
 - Technologies: Javascript, NodeJS
 
 ### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
