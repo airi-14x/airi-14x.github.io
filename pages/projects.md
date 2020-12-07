@@ -9,8 +9,7 @@ permalink: /projects
 ---
 
 - [Current Side Projects](#current-side-projects)
-- [Autumn 2020](#autumn-2020)
-- [2020](#summer-2020)
+- [2020](#autumn-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
 
