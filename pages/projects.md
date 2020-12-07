@@ -37,20 +37,20 @@ permalink: /projects
 
 
 ### COMP 479 - Projects
-#### [Project #1 - NLTK, Cleaning and Parsing the Reuters Collection]()
+#### [Project #1 - NLTK, Cleaning and Parsing the Reuters Collection](https://github.com/airi-14x/COMP479-Information-Retrieval/tree/master/Project1)
 - Used NLTK library, and BeautifulSoup to parse Reuters collection into documents, articles, tokens, stems. Also, removed stopwords indexed in indexer.
 - Used two methods to create the indexer:
 	- Pipelining from block 1 to block 6
 	- Feeding input one block at a time.
 - Technologies: Python, NLTK, BeautifulSoup, JSON
 
-#### [Project #2 - Create an Indexer, a Single Term Querying Processor and a Compressed Index]()
+#### [Project #2 - Create an Indexer, a Single Term Querying Processor and a Compressed Index](https://github.com/airi-14x/COMP479-Information-Retrieval/tree/master/Project2)
 - The tokens needed to be sorted and the duplicate terms needs to be merged. This resulted in have a merged posting list that has to be sorted again.
 - The queries were passed as a parameter and used to look up the term in the index.
 - As for creating a compressed index, the numbers were removed, it was case-folded and the stopwords were removed.
 - Technologies: Python, NLTK, BeautifulSoup, JSON
 
-#### [Project #3 - Created an index via SPIMI]()
+#### [Project #3 - Created an index via SPIMI](https://github.com/airi-14x/COMP479-Information-Retrieval/tree/master/Project3)
 - Single term querying processor and OR query processor was implemented. 
 - Partially implemented: AND query processor.
 - Due to lack of time as well as having surgery, ranking was not implemented and the AND query processor.
