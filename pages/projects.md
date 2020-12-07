@@ -70,7 +70,7 @@ permalink: /projects
 - Summer 2020
 - JS Review
 <!-- - Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program. -->
-- Technologies: Javascript, NodeJS
+- Technologies: Javascript
 
 ### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
 - Sandbox for technologies studied over the summer of '20.
