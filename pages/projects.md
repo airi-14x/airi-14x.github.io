@@ -17,18 +17,7 @@ permalink: /projects
 ---
  
 ## Current Side Projects
-### [On Hold - Autumn 2020]
-### [TheOdinProject-Rails](https://github.com/airi-14x/TheOdinProject-Rails)
-- Summer 2019 - ??
-- Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
-- Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails) program. 
-- Technologies: Ruby, Ruby on Rails
-
-### [TheOdinProject-NodeJS](https://github.com/airi-14x/TheOdinProject-NodeJS)
-- Summer 2020 - ??
-- Creating projects to review Javascript and explore the world of NodeJS.
-- Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program.
-- Technologies: Javascript, NodeJS
+### On Hold - Autumn 2020
 
 ---
 ### [Back to Projects](#projects)
@@ -65,14 +54,24 @@ permalink: /projects
 - Partially implemented: AND query processor.
 - Due to lack of time as well as having surgery, ranking was not implemented and the AND query processor.
 
-#### [Project #4 - TBA]()
-- N/A
-
 ---
 ### [Back to Projects](#projects) 
 
  
 ## Summer 2020
+
+### [TheOdinProject-Rails-Intermediate](https://github.com/airi-14x/TheOdinProject-Rails-Intermediate)
+- Summer 2019 - Summer 2020
+- Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
+- Following [The Odin Project's - Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails) program. 
+- Technologies: Ruby, Ruby on Rails
+
+### [TheOdinProject-NodeJS-Beginner](https://github.com/airi-14x/TheOdinProject-NodeJS-Beginner)
+- Summer 2020
+- Creating projects to review Javascript and explore the world of NodeJS.
+- Following [The Odin Project's - NodeJS](https://www.theodinproject.com/courses/nodejs) program.
+- Technologies: Javascript, NodeJS
+
 ### [Unlimited-Summer-Works](https://github.com/airi-14x/Unlimited-Summer-Works)
 - Sandbox for technologies studied over the summer of '20.
 - Technologies: Python, NumPy, MySQL, MongoDB, Ruby, Machine Learning, W3Schools
