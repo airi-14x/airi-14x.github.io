@@ -76,8 +76,8 @@ permalink: /languages
 - **CEFR: Common European Framework of Reference**
 
 ### Current Status
-- Winter 2021 (?): FRS 1504
-- Possible upcoming writing courses: FRS 1504, FRS 1604, FRS 2704
+- Winter 2021: FRS 1504
+- Possible upcoming writing courses: FRS 1604, FRS 2704
 
 ### Upcoming 2021
 - Autumn 2021 (?): FRS 1604
