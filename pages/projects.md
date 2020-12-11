@@ -145,28 +145,32 @@ for a loan system using a layered architecture.
 ---
 ### [Back to Projects](#projects)
 
-
- 
+ 	
+ 
 ## Past
-
 ### [COMP 445 - Data Communications and Computer Networks Projects](https://github.com/airi-14x/COMP445-Assignments)
 - Fall 2018
 - Technologies: Python, Atom/Sublime
 
 ### [COMP 354 - Introduction to Software Engineering Project](https://github.com/airi-14x/FitAnalyzerComp354)
 - Fall 2018
-- Fitness Tracker Mini App with Graph Visualisation 
+- Created a Fitness Tracker App with Graph Visualisation 
 - Technologies: Java, Android Studio
 
-### [SideProject #1: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
+### [SideProject: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
 - Summer 2018
+- Created projects to familiarise with basic Ruby concepts.
 
-### [C++ Conquest Game Group Project](https://github.com/airi-14x/COMP_345_Conquest_Project)
+### [C++ Conquest Project](https://github.com/airi-14x/COMP_345_Conquest_Project)
 - Fall 2017
+- COMP 345: Computer Games - Elective
+- Created a C++ version of the Risk game.
 - Technologies: C++, Netbeans
 
 ### [University Projects from Fall 2016 to Winter 2018](https://github.com/airi-14x/Fall-16-Winter-18)
 - Fall 2016 - Winter 2018
+- Misc. Computer Science's undergraduate projects.
+- COMP 248 / COMP 249 / SOEN 287 / COMP 353
 - Technologies: Java, HTML, CSS, JavaScript, PhP, MySQL
 
 
