@@ -90,7 +90,7 @@ permalink: /projects
 ---
 ### [Back to Projects](#projects)
 
- 
+  
 ## Winter 2020 
 ### [RESTful and SOAP Web Services](https://github.com/airi-14x/SOEN487-Projects/tree/master/Assignment2)
 - Implemented a RESTful Web Service for a library system and a SOAP Web Service
