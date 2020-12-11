@@ -35,7 +35,8 @@ permalink: /projects
 	- Answered questions related to the assignments via Zoom and email.
 	- Supported environments: Java, IntelliJ, NetBeans 8, Apache NetBeans 11
 
-### [Final Paper - Privacy and IoT's Battle Royale](https://github.com/airi-14x/ENGR411-Privacy-and-IoT)
+### ENGR 411 - Technical Report
+#### [Final Paper - Privacy and IoT's Battle Royale](https://github.com/airi-14x/ENGR411-Privacy-and-IoT)
 - Wrote a final paper regarding the privacy, security and ownership issues with 'Smart Home' IoT.
 - Provide possible mitigations for discussed issues.
 - Referenced numerous journals, Wikipedia articles and the "End of Ownership" book.
