@@ -145,6 +145,7 @@ for a loan system using a layered architecture.
 ---
 ### [Back to Projects](#projects)
 
+
 ## Past
 
 ### [COMP 445 - Data Communications and Computer Networks Projects](https://github.com/airi-14x/COMP445-Assignments)
