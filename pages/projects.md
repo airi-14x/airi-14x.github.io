@@ -12,6 +12,7 @@ permalink: /projects
 - [2020](#autumn-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
+- [Past](#past)
 
 ---
  
@@ -117,9 +118,8 @@ for a loan system using a layered architecture.
  
 ## Spring 2019
 ### [TheOdinProject-Sinatra-and-Basic-Rails](https://github.com/airi-14x/TheOdinProject-Sinatra-and-Basic-Rails)
-- Created projects to familiarise with the basics of Ruby on Rails.
+- Created projects to familiarise with the basics of Ruby on Rails and Sinatra.
 - Technologies: Ruby, Ruby on Rails, Sinatra, Heroku
-
  
 ## Winter 2019
 ### Internship Project at Morgan Stanley
@@ -137,6 +137,36 @@ for a loan system using a layered architecture.
 ### [SilentBabyWatcher](https://github.com/airi-14x/SilentBabyWatcher)
 - Created a program that detects and classifies the baby-sound inputs into 4 different sound parameters.
 - Technologies: Python, Machine Learning
+
+### [AI for Social Good - Summer Lab](https://github.com/airi-14x/AI-For-Social-Good-Summer-18)
+- Resources used in AI for Social Good's summer lab internship.
+- Technologies: Python, NumPy, Machine Learning, Jupyter Notebook
+
+---
+### [Back to Projects](#projects)
+
+## Past
+
+### [COMP 445 - Data Communications and Computer Networks Projects](https://github.com/airi-14x/COMP445-Assignments)
+- Fall 2018
+- Technologies: Python, Atom/Sublime
+
+### [COMP 354 - Introduction to Software Engineering Project](https://github.com/airi-14x/FitAnalyzerComp354)
+- Fall 2018
+- Fitness Tracker Mini App with Graph Visualisation 
+- Technologies: Java, Android Studio
+
+### [SideProject #1: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
+- Summer 2018
+
+### [C++ Conquest Game Group Project](https://github.com/airi-14x/COMP_345_Conquest_Project)
+- Fall 2017
+- Technologies: C++, Netbeans
+
+### [University Projects from Fall 2016 to Winter 2018](https://github.com/airi-14x/Fall-16-Winter-18)
+- Fall 2016 - Winter 2018
+- Technologies: Java, HTML, CSS, JavaScript, PhP, MySQL
+
 
 ---
 ### [Back to Projects](#projects)
