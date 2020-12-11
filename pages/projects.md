@@ -28,12 +28,17 @@ permalink: /projects
 - August 2020 - December 2020
 - Marking Coordinator: SOEN 387
 	- Meetings via Slack & created spreadsheets for marking.
+	- Coordinating and arrange time slots. Writing up announcements related to presentations and assignments.	
 - Marker: COMP 348 & SOEN 387
 	- Demos were done via Zoom. Other markings were done on a spreadsheet.
 - Programmer on Duty: SOEN 387
-	- Answered questions related to the assignments.
+	- Answered questions related to the assignments via Zoom and email.
 	- Supported environments: Java, IntelliJ, NetBeans 8, Apache NetBeans 11
 
+### [Final Paper - Privacy and IoT's Battle Royale](https://github.com/airi-14x/ENGR411-Privacy-and-IoT)
+- Wrote a final paper regarding the privacy, security and ownership issues with 'Smart Home' IoT.
+- Provide possible mitigations for discussed issues.
+- Referenced numerous journals, Wikipedia articles and the "End of Ownership" book.
 
 ### COMP 479 - Projects
 #### [Project #1 - NLTK, Cleaning and Parsing the Reuters Collection](https://github.com/airi-14x/COMP479-Information-Retrieval/tree/master/Project1)
