@@ -160,6 +160,7 @@ for a loan system using a layered architecture.
 ### [SideProject: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
 - Summer 2018
 - Created projects to familiarise with basic Ruby concepts.
+- Technologies: Ruby, Atom
 
 ### [C++ Conquest Project](https://github.com/airi-14x/COMP_345_Conquest_Project)
 - Fall 2017
