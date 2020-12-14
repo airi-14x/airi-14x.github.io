@@ -27,7 +27,7 @@ permalink: /projects
  
 ## Course Highlights
 ### Bachelor of Computer Science - Web Services and Applications
-- Java, Python, HTML5, CSS, JavaScript
+- Java, Python, Ruby, HTML5, CSS, JavaScript
 - Databases (MySQL) & Operating Systems
 - Data Structures and Algorithms
 - Data Communications and Computer Networking
