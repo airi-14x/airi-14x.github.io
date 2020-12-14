@@ -9,6 +9,7 @@ permalink: /projects
 ---
 
 - [Current Side Projects](#current-side-projects)
+- [Course Highlights](#courses-highlights)
 - [2020](#autumn-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
@@ -23,6 +24,20 @@ permalink: /projects
 ---
 ### [Back to Projects](#projects)
 
+ 
+## Course Highlights
+### Bachelor of Computer Science - Web Services and Applications
+- Java, Python, HTML5, CSS, JavaScript
+- Databases (MySQL) & Operating Systems
+- Data Structures and Algorithms
+- Data Communications and Computer Networking
+- Information Retrieval and Web Search
+- Final Paper: Privacy, Security, Ownership and IoT
+- Web Services and Applications (SOAP, REST, XML, JSON)
+
+---
+### [Back to Projects](#projects)
+ 
  
 ## Autumn 2020
 ### Undergraduate Teaching Assistant
@@ -66,7 +81,6 @@ permalink: /projects
 
  
 ## Summer 2020
-
 ### [TheOdinProject-Rails-Intermediate](https://github.com/airi-14x/TheOdinProject-Rails-Intermediate)
 - Summer 2019 - Summer 2020
 - Creating projects to familiarise with intermediate and advanced Ruby on Rails features.
@@ -145,7 +159,7 @@ for a loan system using a layered architecture.
 ---
 ### [Back to Projects](#projects)
 
- 	
+ 		
  
 ## Past
 ### [COMP 445 - Data Communications and Computer Networks Projects](https://github.com/airi-14x/COMP445-Assignments)
