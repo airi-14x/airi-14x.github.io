@@ -135,6 +135,8 @@ for a loan system using a layered architecture.
 - Created projects to familiarise with the basics of Ruby on Rails and Sinatra.
 - Technologies: Ruby, Ruby on Rails, Sinatra, Heroku
  
+ 
+ 
 ## Winter 2019
 ### Internship Project at Morgan Stanley
 - Migrated an internal Python tool to a Scala dashboard.
