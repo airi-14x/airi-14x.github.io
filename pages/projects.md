@@ -9,7 +9,7 @@ permalink: /projects
 ---
 
 - [Current Side Projects](#current-side-projects)
-- [Course Highlights](#courses-highlights)
+- [Course Highlights](#course-highlights)
 - [2020](#autumn-2020)
 - [2019](#summer-2019)
 - [2018](#summer-2018)
