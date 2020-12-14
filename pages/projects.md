@@ -31,8 +31,8 @@ permalink: /projects
 - Databases (MySQL) & Operating Systems
 - Data Structures and Algorithms
 - Data Communications and Computer Networking
-- Information Retrieval and Web Search
 - Final Paper: Privacy, Security, Ownership and IoT
+- Information Retrieval and Web Search
 - Web Services and Applications (SOAP, REST, XML, JSON)
 
 ---
