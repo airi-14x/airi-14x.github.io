@@ -44,7 +44,7 @@ permalink: /projects
 - August 2020 - December 2020
 - Marking Coordinator: SOEN 387
 	- Meetings via Slack & created spreadsheets for marking.
-	- Coordinating and arrange time slots. Writing up announcements related to presentations and assignments.	
+	- Coordinating and arranging time slots. Writing up announcements related to presentations and assignments.	
 - Marker: COMP 348 & SOEN 387
 	- Demos were done via Zoom. Other markings were done on a spreadsheet.
 - Programmer on Duty: SOEN 387
