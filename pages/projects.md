@@ -173,7 +173,7 @@ for a loan system using a layered architecture.
 - Created a Fitness Tracker App with Graph Visualisation 
 - Technologies: Java, Android Studio
 
-### [SideProject: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
+### [Side Project: TOP - Ruby's Basics](https://github.com/airi-14x/TheOdinProject-Ruby)
 - Summer 2018
 - Created projects to familiarise with basic Ruby concepts.
 - Technologies: Ruby, Atom
