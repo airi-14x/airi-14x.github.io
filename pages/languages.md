@@ -92,7 +92,7 @@ permalink: /languages
 ## Korean
 ### Dream Milestone: Passing TOPIK Level 5 
 ### Next Milestone: TOPIK Level 2
-### [On Hold - Semi-Hiatus; Prioritising French & Japanese]
+### [Semi-Hiatus: Prioritising French & Japanese]
 
 ### Current Level
 - CEFR: A1.2(?)
