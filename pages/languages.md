@@ -80,7 +80,8 @@ permalink: /languages
 - Possible upcoming writing courses: FRS 1604, FRS 2704
 
 ### Upcoming 2021
-- Autumn 2021 (?): FRS 1604
+- Summer 2021 (?): FRS 1604
+- Autumn 2021 (?): FRS 1604 / FRS 2704
 
 ### Past
 - Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
@@ -91,18 +92,22 @@ permalink: /languages
 ## Korean
 ### Dream Milestone: Passing TOPIK Level 5 
 ### Next Milestone: TOPIK Level 2
-### [On Hold - Until completion of "Tobira"]
+### [On Hold - Semi-Hiatus; Prioritising French & Japanese]
 
 ### Current Level
 - CEFR: A1.2(?)
 
 ### Current Status
-- ON HIATUS
+- Potentially in Summer 2021 (?): [CRN 1901](https://admission.umontreal.ca/cours-et-horaires/cours/crn-1901/)
 
-### Past
+### Past (Self-Study)
 - Hangul Studies
 - Integrated Korean: Beginning 1 [TOPIK 1]
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
+
+**Self-studied only up until here. The following section will be a combination of self-study and classes.**
+### Past
+- N/A
 
 ---
 
