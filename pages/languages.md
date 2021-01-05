@@ -17,7 +17,7 @@ permalink: /languages
  
 ## Japanese
 ### Dream Milestone (One day, perhaps~): Passing JLPT N1
-### Next Milestone: JLPT N3 [~CEFR: B2]
+### Next Milestone: JLPT N3 [~CEFR: B2] (Reading) // JLPT N4+ [~CEFR: B1] (Overall)
 
 ### Current Level
 - Université de Montréal (UdeM) Japanese Test Results:
