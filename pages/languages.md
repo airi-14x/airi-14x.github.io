@@ -27,9 +27,10 @@ permalink: /languages
 	- To put more practice in: Speech, Writing
 
 ### Current Status
+- Reviewing: Minna no Nihongo I (Lesson 1 --> Lesson 19)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
-  - Speech Practice: @ Section 2
+  - Speech Practice: Section 3 [短縮形 Contracted Forms]
 - Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
 
 ### Upcoming 2021
@@ -53,12 +54,14 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Chapter 1 to 5
   - Speech Practice: 
-    - Section 1
+    - Section 1 [あいづちとフィラー Aizuchi]
     
 **Self-studied only up until here. The following section will be a combination of self-study and classes.**
 
 ### Past
-- N/A
+- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
+  - Speech Practice: 
+    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
 
 ---
 
