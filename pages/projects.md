@@ -18,8 +18,8 @@ permalink: /projects
 ---
  
 ## Current Side Projects
-### On Hold - Autumn 2020
-- N/A
+### Winter 2021
+- [Udemy's React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ---
 ### [Back to Projects](#projects)
