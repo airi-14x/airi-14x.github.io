@@ -27,7 +27,7 @@ permalink: /projects
  
 ## Course Highlights
 ### Bachelor of Computer Science - Web Services and Applications 
-### [Completion: December 2020]
+- **Completion: December 2020**
 - Java, Python, Ruby, HTML5, CSS, JavaScript
 - Databases (MySQL) & Operating Systems
 - Data Structures and Algorithms
