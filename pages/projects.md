@@ -18,7 +18,8 @@ permalink: /projects
 ---
  
 ## Current Side Projects
-### Winter 2021 - [Feb 1st 2021 ~ June 1st 2021]
+### Winter 2021
+- Feb 1st 2021 ~ June 1st 2021
 - [Udemy's React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ---
