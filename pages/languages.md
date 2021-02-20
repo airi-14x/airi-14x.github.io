@@ -95,13 +95,13 @@ permalink: /languages
 ## Korean
 ### Dream Milestone: Passing TOPIK Level 5 
 ### Next Milestone: TOPIK Level 2
-### [Semi-Hiatus: Prioritising French & Japanese]
+### [Hiatus: Prioritising French & Japanese]
 
 ### Current Level
 - CEFR: A1.2(?)
 
 ### Current Status
-- Potentially in Summer 2021 (?): [CRN 1901](https://admission.umontreal.ca/cours-et-horaires/cours/crn-1901/)
+- Hiatus until JPN level B2!
 
 ### Past (Self-Study)
 - Hangul Studies
