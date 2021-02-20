@@ -27,14 +27,14 @@ permalink: /languages
 	- To put more practice in: Speech, Writing
 
 ### Current Status
-- Reviewing: Minna no Nihongo I (Lesson 1 --> Lesson 19)
+- Reviewing: Minna no Nihongo I (Lesson 15 --> Lesson 19)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
 - Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
 
 ### Upcoming 2021
-- Autumn 2021(?): [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
+- Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
 
 ### Past (Self-Study)
 - Obenkyo: Hiragana & Katakana [JLPT N5]
@@ -62,6 +62,8 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
     - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
+- Minna no Nihongo I:
+  -  Lesson 1 --> Lesson 15
 
 ---
 
@@ -83,8 +85,8 @@ permalink: /languages
 - Possible upcoming writing courses: FRS 1604, FRS 2704
 
 ### Upcoming 2021
-- Summer 2021 (?): FRS 1604
-- Autumn 2021 (?): FRS 1604 / FRS 2704
+- Summer 2021 - I: FRS 1604
+- Summer 2021 - II: FRS 2704
 
 ### Past
 - Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
