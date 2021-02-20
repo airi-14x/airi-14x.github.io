@@ -101,7 +101,7 @@ permalink: /languages
 - CEFR: A1.2(?)
 
 ### Current Status
-- Hiatus until JPN level B2!
+- Hiatus until overall Japanese level is at B2 (JPN 1911)!
 
 ### Past (Self-Study)
 - Hangul Studies
