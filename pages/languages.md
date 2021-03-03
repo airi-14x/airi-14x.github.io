@@ -26,7 +26,7 @@ permalink: /languages
 	- Strength: Reading, Comprehension
 	- To put more practice in: Speech, Writing
 
-### Current Status
+### Current Status [2021 ~ 2025(?)]
 - Reviewing: Minna no Nihongo I (Lesson 15 --> Lesson 19)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
@@ -80,7 +80,7 @@ permalink: /languages
 
 - **CEFR: Common European Framework of Reference**
 
-### Current Status
+### Current Status [2021 ~ 2022]
 - Winter 2021: FRS 1504
 - Possible upcoming writing courses: FRS 1604, FRS 2704
 
@@ -102,7 +102,7 @@ permalink: /languages
 ### Current Level
 - CEFR: A1.2(?)
 
-### Current Status
+### Current Status [2024 ~ ?]
 - Hiatus until overall Japanese level is at B2 (JPN 1911)!
 
 ### Past (Self-Study)
