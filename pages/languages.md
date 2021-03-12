@@ -57,7 +57,7 @@ permalink: /languages
     - Section 1 [あいづちとフィラー Aizuchi]
     
 **Self-studied only up until here. The following section will be a combination of self-study and classes.**
-
+---
 ### Past
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
@@ -81,7 +81,6 @@ permalink: /languages
 - **CEFR: Common European Framework of Reference**
 
 ### Current Status [2021 ~ 2022]
-- Winter 2021: FRS 1504
 - Possible upcoming writing courses: FRS 1604, FRS 2704
 
 ### Upcoming 2021
@@ -89,7 +88,9 @@ permalink: /languages
 - Summer 2021 - II: FRS 2704
 
 ### Past
+---
 - Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
+- Winter 2021: FRS 1504
 
 ---
  
