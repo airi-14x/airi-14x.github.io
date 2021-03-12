@@ -27,7 +27,7 @@ permalink: /languages
 	- To put more practice in: Speech, Writing
 
 ### Current Status [2021 ~ 2025(?)]
-- Reviewing: Minna no Nihongo I (Lesson 15 --> Lesson 19)
+- Reviewing: Minna no Nihongo I (Lesson 17 --> Lesson 19)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
@@ -36,7 +36,18 @@ permalink: /languages
 ### Upcoming 2021
 - Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
 
-### Past (Self-Study)
+
+### Past
+---
+- Minna no Nihongo I:
+  -  Lesson 1 --> Lesson 16
+- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
+  - Speech Practice: 
+    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
+
+---
+
+### Past (Self-Study only)
 - Obenkyo: Hiragana & Katakana [JLPT N5]
 - Genki I [JLPT N5]
 - Genki II [JLPT N5 ~ JLPT N4]
@@ -55,18 +66,6 @@ permalink: /languages
   - Chapter 1 to 5
   - Speech Practice: 
     - Section 1 [あいづちとフィラー Aizuchi]
-    
-**Self-studied only up until here. The following section will be a combination of self-study and classes.**
-
-### Past
----
-- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Speech Practice: 
-    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
-- Minna no Nihongo I:
-  -  Lesson 1 --> Lesson 15
-
----
 
  
 ## French
@@ -90,8 +89,8 @@ permalink: /languages
 
 ### Past
 ---
-- Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
 - Winter 2021: FRS 1504
+- Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
 
 ---
  
