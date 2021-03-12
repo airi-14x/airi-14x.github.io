@@ -43,7 +43,7 @@ permalink: /languages
   -  Lesson 1 --> Lesson 16
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
-    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
+   - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
 ---
 
 ### Self-Study only
@@ -64,7 +64,7 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Chapter 1 to 5
   - Speech Practice: 
-    - Section 1 [あいづちとフィラー Aizuchi]
+   - Section 1 [あいづちとフィラー Aizuchi]
 
 
 ---
