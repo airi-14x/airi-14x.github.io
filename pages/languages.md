@@ -48,7 +48,6 @@ permalink: /languages
 ---
 
 ### Self-Study only
----
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Chapter 1 to 5
   - Speech Practice: 
