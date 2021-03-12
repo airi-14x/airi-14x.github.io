@@ -44,6 +44,7 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
     - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
+---
 
 ### Self-Study only
 - Obenkyo: Hiragana & Katakana [JLPT N5]
@@ -64,8 +65,10 @@ permalink: /languages
   - Chapter 1 to 5
   - Speech Practice: 
     - Section 1 [あいづちとフィラー Aizuchi]
+
 ---
- 
+
+
 ## French
 ### Dream Milestone: CEFR C2
 ### Next Milestone: CEFR C1
