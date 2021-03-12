@@ -45,9 +45,7 @@ permalink: /languages
   - Speech Practice: 
     - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
 
----
-
-### Past (Self-Study only)
+### Self-Study only
 - Obenkyo: Hiragana & Katakana [JLPT N5]
 - Genki I [JLPT N5]
 - Genki II [JLPT N5 ~ JLPT N4]
@@ -66,8 +64,8 @@ permalink: /languages
   - Chapter 1 to 5
   - Speech Practice: 
     - Section 1 [あいづちとフィラー Aizuchi]
-
- 
+---
+ 
 ## French
 ### Dream Milestone: CEFR C2
 ### Next Milestone: CEFR C1
