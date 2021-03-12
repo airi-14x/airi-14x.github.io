@@ -57,8 +57,9 @@ permalink: /languages
     - Section 1 [あいづちとフィラー Aizuchi]
     
 **Self-studied only up until here. The following section will be a combination of self-study and classes.**
----
+
 ### Past
+---
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
     - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
@@ -85,7 +86,7 @@ permalink: /languages
 
 ### Upcoming 2021
 - Summer 2021 - I: FRS 1604
-- Summer 2021 - II: FRS 2704
+- Summer 2021 - II (?): FRS 2704
 
 ### Past
 ---
