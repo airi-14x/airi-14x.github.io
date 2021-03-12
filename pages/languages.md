@@ -44,28 +44,29 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
+
 ---
 
 ### Self-Study only
-- Obenkyo: Hiragana & Katakana [JLPT N5]
-- Genki I [JLPT N5]
-- Genki II [JLPT N5 ~ JLPT N4]
-- A Guide to Japanese Grammar: A Japanese Approach to Learning Japanese Grammar [JLPT N5]
-- Obenkyo Kanji N5 & N4
-- Obenkyo Counters Review [JLPT N5]
-- Imabi Beginner I [JLPT N5]
-- Nihongo Notes Vol 1: Language and Culture [JLPT N4]
-- Tobira: Review Kanji 297 [JLPT N4]
-- Imabi Beginner I Review [JLPT N5]
-- Nihongo Notes Vol 2: Language and Communication [JLPT N4]
-  - Chapter 1 + Review
-  - Chapter 2 + Review
-  - Chapter 3 + Review
+---
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Chapter 1 to 5
   - Speech Practice: 
    - Section 1 [あいづちとフィラー Aizuchi]
-
+- Nihongo Notes Vol 2: Language and Communication [JLPT N4]
+  - Chapter 1 + Review
+  - Chapter 2 + Review
+  - Chapter 3 + Review
+- Imabi Beginner I Review [JLPT N5]
+- Tobira: Review Kanji 297 [JLPT N4]
+- Nihongo Notes Vol 1: Language and Culture [JLPT N4]
+- Imabi Beginner I [JLPT N5]
+- Obenkyo Counters Review [JLPT N5]
+- Obenkyo Kanji N5 & N4
+- A Guide to Japanese Grammar: A Japanese Approach to Learning Japanese Grammar [JLPT N5]
+- Genki II [JLPT N5 ~ JLPT N4]
+- Genki I [JLPT N5]
+- Obenkyo: Hiragana & Katakana [JLPT N5]
 
 ---
  
