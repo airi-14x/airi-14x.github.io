@@ -105,17 +105,13 @@ permalink: /languages
 ### Current Level
 - CEFR: A1.2(?)
 
-### Current Status [2024 ~ ?]
+### Current Status [2025 ~ ?]
 - Hiatus until overall Japanese level is at B2 (JPN 1911)!
 
-### Past (Self-Study)
-- Hangul Studies
-- Integrated Korean: Beginning 1 [TOPIK 1]
+### Past (Self-Study only)
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
-
-**Self-studied only up until here. The following section will be a combination of self-study and classes.**
-### Past
-- N/A
+- Integrated Korean: Beginning 1 [TOPIK 1]
+- Hangul Studies
 
 ---
 
