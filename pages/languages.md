@@ -98,7 +98,7 @@ permalink: /languages
  
 
 ## Korean
-### Dream Milestone: Passing TOPIK Level 5 
+### Dream Milestone: Passing TOPIK Level 3 
 ### Next Milestone: TOPIK Level 2
 ### [Hiatus: Prioritising French & Japanese]
 
