@@ -24,10 +24,10 @@ permalink: /languages
 	- (November 16th 2020)
 	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
 	- Strength: Reading, Comprehension
-	- To put more practice in: Speech, Writing
+	- Practice needed in: Speech, Writing
 
 ### Current Status [2021 ~ 2025(?)]
-- Reviewing: Minna no Nihongo I (Lesson 17 --> Lesson 19)
+- Reviewing: Minna no Nihongo I (Lesson 18 --> Lesson 25)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
@@ -40,7 +40,7 @@ permalink: /languages
 ### Past
 ---
 - Minna no Nihongo I:
-  -  Lesson 1 --> Lesson 16
+  -  Lesson 1 --> Lesson 17
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
@@ -91,6 +91,7 @@ permalink: /languages
 
 ### Past
 ---
+- Winter 2021: Ateliers de renforcement à l'oral (avancé)
 - Winter 2021: FRS 1504
 - Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
 
