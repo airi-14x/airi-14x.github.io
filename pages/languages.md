@@ -19,28 +19,30 @@ permalink: /languages
 ### Dream Milestone (One day, perhaps~): Passing JLPT N1
 ### Next Milestone: JLPT N3 [~CEFR: B2] (Reading) // JLPT N4+ [~CEFR: B1] (Overall)
 
-### Current Level
+### Current Status [2021 ~ 2025(?)]
+- Reviewing: Minna no Nihongo I (L17 --> L19)
+- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
+  - Reviewing Ch.1
+  - Speech Practice: Section 3 [短縮形 Contracted Forms]
+- Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
+  - Minna no Nihongo I: L20 ~ L25
+  - Précis grammatical: L20 ~ L25 
+  - Kanji 181 ~ 240
+
+### Upcoming 2021
+- Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
+
+### Initial Level
 - Université de Montréal (UdeM) Japanese Test Results:
 	- (November 16th 2020)
 	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
 	- Strength: Reading, Comprehension
 	- Practice needed in: Speech, Writing
 
-### Current Status [2021 ~ 2025(?)]
-- Reviewing: Minna no Nihongo I (Lesson 18 --> Lesson 25)
-- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Reviewing Ch.1
-  - Speech Practice: Section 3 [短縮形 Contracted Forms]
-- Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
-
-### Upcoming 2021
-- Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
-
-
 ### Past
 ---
 - Minna no Nihongo I:
-  -  Lesson 1 --> Lesson 17
+  -  Lesson 1 --> Lesson 16
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
@@ -75,19 +77,20 @@ permalink: /languages
 ### Next Milestone: CEFR C1
 
 ### Current Level
+- Oral Level: QUM 8 (B2+)
+- Written Level: QUM 6 (B2.1) 
+
+### Upcoming 2021
+- Summer 2021 - I: FRS 1604
+- Summer 2021 - II (?): FRS 2704
+
+### Initial Level
 - Université de Montréal (UdeM) French Test Results:
   - (November 13th 2020)
   - Oral Level: QUM 8 (MAX) [CEFR: B2+]
   - Written Level: QUM 5 [CEFR: B1.2]
 
 - **CEFR: Common European Framework of Reference**
-
-### Current Status [2021 ~ 2022]
-- Possible upcoming writing courses: FRS 1604, FRS 2704
-
-### Upcoming 2021
-- Summer 2021 - I: FRS 1604
-- Summer 2021 - II (?): FRS 2704
 
 ### Past
 ---
