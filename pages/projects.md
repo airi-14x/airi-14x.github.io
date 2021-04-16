@@ -19,6 +19,7 @@ permalink: /projects
  
 ## Current Side Projects
 ### 2021
+- N/A
 
 ---
 ### [Back to Projects](#projects)
