@@ -26,8 +26,6 @@ permalink: /languages
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
 - Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
   - Minna no Nihongo I: L20 ~ L25
-  - Précis grammatical: L20 ~ L25 
-  - Kanji 181 ~ 240
 
 ### Upcoming 2021
 - Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
@@ -41,6 +39,9 @@ permalink: /languages
 
 ### Past
 ---
+- JPN 1904:
+  - Précis grammatical: L20 ~ L25 
+  - Kanji 181 ~ 240
 - Minna no Nihongo I:
   -  Lesson 1 --> Lesson 16
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
@@ -76,13 +77,12 @@ permalink: /languages
 ### Dream Milestone: CEFR C2
 ### Next Milestone: CEFR C1
 
-### Current Level
+### Current Level [2021 ~ 2025(?)]
 - Oral Level: QUM 8 (B2+)
 - Written Level: QUM 6 (B2.1) 
 
 ### Upcoming 2021
-- Summer 2021 - I: FRS 1604
-- Summer 2021 - II (?): FRS 2704
+- N/A
 
 ### Initial Level
 - Université de Montréal (UdeM) French Test Results:
@@ -109,7 +109,7 @@ permalink: /languages
 ### Current Level
 - CEFR: A1.2(?)
 
-### Current Status [2025 ~ ?]
+### Current Status [2025(?) ~ ?]
 - Hiatus until overall Japanese level is at B2 (JPN 1911)!
 
 ### Past (Self-Study only)
