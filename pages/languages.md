@@ -39,7 +39,7 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
-- **Initial Level**
+ 
  - Université de Montréal (UdeM) Japanese Test Results:
 	- (November 16th 2020)
 	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
@@ -87,7 +87,7 @@ permalink: /languages
 - Winter 2021: Ateliers de renforcement à l'oral (avancé)
 - Winter 2021: FRS 1504
 - Admitted to ["Certificat en français langue seconde: culture, études et travail"](https://admission.umontreal.ca/programmes/certificat-en-francais-langue-seconde-culture-etudes-et-travail/presentation/), but due to my high oral level, I was unable to be pursuit this certificat. Instead, to develop my written level to QUM 8, the coordinator recommended me to take the advanced writing courses as an independent student.
-- **Initial Level**:
+
  - Université de Montréal (UdeM) French Test Results:
    - (November 13th 2020)
    - Oral Level: QUM 8 (MAX) [CEFR: B2+]
