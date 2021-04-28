@@ -40,7 +40,7 @@ permalink: /languages
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
  
- - **Université de Montréal (UdeM) Japanese Test Results:**
+- **Université de Montréal (UdeM) Japanese Test Results:**
 	- (November 16th 2020)
 	- General Level: [Japonais 5 [CEFR:A2.2]](https://centre-de-langues.umontreal.ca/cours-et-horaires/cours/japonais/#c109338)
 	- Strength: Reading, Comprehension
