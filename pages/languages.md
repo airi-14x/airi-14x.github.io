@@ -24,8 +24,6 @@ permalink: /languages
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
-- Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
-  - Minna no Nihongo I: L20 ~ L25
 
 ### Upcoming 2021
 - Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
@@ -39,7 +37,8 @@ permalink: /languages
 
 ### Past
 ---
-- JPN 1904:
+- Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
+  - Minna no Nihongo I: L20 ~ L25
   - Précis grammatical: L20 ~ L25 
   - Kanji 181 ~ 240
 - Minna no Nihongo I:
