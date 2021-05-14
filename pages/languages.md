@@ -20,7 +20,6 @@ permalink: /languages
 ### Next Milestone: JLPT N3 [~CEFR: B2] (Reading) // JLPT N4+ [~CEFR: B1] (Overall)
 
 ### Current Status [2021 ~ 2025(?)]
-- Reviewing: Minna no Nihongo I (L17 --> L19)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Reviewing Ch.1
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
@@ -30,6 +29,7 @@ permalink: /languages
 
 ### Past
 ---
+- Minna no Nihongo I: L1 --> L25
 - Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
   - Minna no Nihongo I: L20 ~ L25
   - Précis grammatical: L20 ~ L25 
