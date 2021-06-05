@@ -21,7 +21,7 @@ permalink: /languages
 
 ### Current Status [2021 ~ 2025(?)]
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Reviewing Ch.1
+  - Reviewing Ch.2
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
 
 ### Upcoming 2021
@@ -29,6 +29,10 @@ permalink: /languages
 
 ### Past
 ---
+- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
+  - Reviewing Ch.1
+  - Speech Practice: 
+   - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
 - Minna no Nihongo I: L1 --> L25
 - Winter 2021: [JPN 1904](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1904/)
   - Minna no Nihongo I: L20 ~ L25
@@ -36,9 +40,6 @@ permalink: /languages
   - Kanji 181 ~ 240
 - Minna no Nihongo I:
   -  Lesson 1 --> Lesson 16
-- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Speech Practice: 
-   - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
  
 - **Université de Montréal (UdeM) Japanese Test Results:**
 	- (November 16th 2020)
