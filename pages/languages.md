@@ -20,17 +20,21 @@ permalink: /languages
 ### Next Milestone: JLPT N3 [~CEFR: B2] (Reading) // JLPT N4+ [~CEFR: B1] (Overall)
 
 ### Current Status [2021 ~ 2025(?)]
+- Minna no Nihongo II [JLPT N4]
+  - L26 ~ L30
+
+### ON HOLD
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Reviewing Ch.2
+  - Reviewing Ch.3
   - Speech Practice: Section 3 [短縮形 Contracted Forms]
 
-### Upcoming 2021
-- Autumn 2021: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/) & [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
+### Upcoming 2022 (?)
+- Autumn 2022: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/)
 
 ### Past
 ---
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Reviewing Ch.1
+  - Review: Ch.1 / Ch.2
   - Speech Practice: 
    - Section 2 [言葉の意味を聞く／聞き返す Asking for Definitions and Clarification]
 - Minna no Nihongo I: L1 --> L25
@@ -80,7 +84,7 @@ permalink: /languages
 - Oral Level: QUM 8 (B2+)
 - Written Level: QUM 6 (B2.1) 
 
-### Upcoming 2021
+### Upcoming 2022
 - N/A
 
 ### Past
@@ -105,8 +109,8 @@ permalink: /languages
 ### Current Level
 - CEFR: A1.2(?)
 
-### Current Status [2025(?) ~ ?]
-- Hiatus until overall Japanese level is at B2 (JPN 1911)!
+### Current Status 
+- Hiatus
 
 ### Past (Self-Study only)
 - Basic Korean: A Grammar and Workbook [TOPIK 1 - 2]
