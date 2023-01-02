@@ -1,5 +1,5 @@
 ---
-tab: Projects
+tab: Projects (Bachelor of Computer Science)
 description: Here's a list of technologies that I have worked with.
 permalink: /projects
 ---
@@ -8,7 +8,6 @@ permalink: /projects
 
 ---
 
-- [Current Side Projects](#current-side-projects)
 - [Course Highlights](#course-highlights)
 - [2020](#autumn-2020)
 - [2019](#summer-2019)
@@ -16,14 +15,6 @@ permalink: /projects
 - [Past](#past)
 
 ---
- 
-## Current Side Projects
-### 2021
-- N/A
-
----
-### [Back to Projects](#projects)
-
  
 ## Course Highlights
 ### Bachelor of Computer Science - Web Services and Applications 
