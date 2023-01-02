@@ -16,23 +16,16 @@ permalink: /languages
 
  
 ## Japanese
-### Dream Milestone (One day, perhaps~): Passing JLPT N1
+### Dream Milestone (One day, perhaps~): Passing JLPT N2
 ### Next Milestone: JLPT N3 [~CEFR: B2] (Reading) // JLPT N4+ [~CEFR: B1] (Overall)
 
-### Current Status [2021 ~ 2025(?)]
-- Minna no Nihongo II [JLPT N4]
-  - L26 ~ L30
+### Current Status [2021 ~ 2025]
+- Aiming for JLPT N4 ~ N3
 
-### ON HOLD
-- Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
-  - Reviewing Ch.3
-  - Speech Practice: Section 3 [短縮形 Contracted Forms]
-
-### Upcoming 2022 (?)
-- Autumn 2022: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/)
 
 ### Past
 ---
+- Autumn 2022: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/)
 - Tobira: Gateway To Advanced Japanese Learning Through Content And Multimedia [JLPT N3]
   - Review: Ch.1 / Ch.2
   - Speech Practice: 
@@ -80,12 +73,10 @@ permalink: /languages
 ### Dream Milestone: CEFR C2
 ### Next Milestone: CEFR C1
 
-### Current Level [2021 ~ 2025(?)]
+### Current Level [2021 ~ 2025]
 - Oral Level: QUM 8 (B2+)
 - Written Level: QUM 6 (B2.1) 
 
-### Upcoming 2022
-- N/A
 
 ### Past
 ---
@@ -102,9 +93,9 @@ permalink: /languages
  
 
 ## Korean
-### Dream Milestone: Passing TOPIK Level 3 
-### Next Milestone: TOPIK Level 2
-### [Hiatus: Prioritising French & Japanese]
+### Dream Milestone: -
+### Next Milestone: -
+### [Hiatus: Lack of Interest and more focus on FR/JPN]
 
 ### Current Level
 - CEFR: A1.2(?)
