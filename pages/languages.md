@@ -26,6 +26,9 @@ permalink: /languages
 
 ### Past
 ---
+- Winter 2023: [JPN 1906](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1906/)
+  - Minna no Nihongo II: L32 ~ L36
+  - Kanji 313 ~ 384 
 - Autumn 2022: [JPN 1905](https://admission.umontreal.ca/cours-et-horaires/cours/jpn-1905/)
   - Minna no Nihongo II: L26 ~ L31
   - Précis grammatical: L26 ~ L31
